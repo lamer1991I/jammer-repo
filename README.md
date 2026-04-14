@@ -1,4 +1,4 @@
-# 📡 Jammer Bluetooth — Electromagnetismo B191
+# 📡 Jammer Bluetooth — Electromagnetismo E111
 ### Unidades Tecnológicas de Santander · 2026
 
 > **⚠️ AVISO LEGAL:** Este proyecto es **exclusivamente educativo**, desarrollado en entornos controlados bajo supervisión académica. El uso de inhibidores de señal sin autorización está regulado por la **ANE (Agencia Nacional del Espectro - Colombia)**. Los autores no se responsabilizan por el mal uso de esta información.
@@ -6,8 +6,7 @@
 ---
 
 ## 👥 Integrantes
-Estudiantes del grupo **B191** — Tecnología en Desarrollo de Sistemas Informáticos  
-Docente: **Villamizar Badillo, Nelson Humberto** — Departamento de Ciencias Básicas, UTS
+Estudiantes del grupo **E111** — UNIDADES TECNOLOGICAS DE SANTANDER   UTS
 
 ---
 
@@ -99,7 +98,7 @@ Ver carpeta [`/codigo`](./codigo/) para el sketch de Arduino IDE.
 ## 📁 Estructura del Repositorio
 
 ```
-jammer-bluetooth-b191/
+jammer-bluetooth-E111/
 ├── README.md               ← Este archivo
 ├── codigo/
 │   ├── jammer_bluetooth.ino    ← Sketch principal
@@ -131,4 +130,4 @@ Ver [`/referencias/referencias_bibliograficas.md`](./referencias/referencias_bib
 
 ---
 
-*Electromagnetismo B191 · UTS Bucaramanga · 2026*
+*Electromagnetismo E111 · UTS Bucaramanga · 2026*
