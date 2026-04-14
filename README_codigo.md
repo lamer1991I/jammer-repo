@@ -72,3 +72,4 @@ Como el ruido de fondo típico en 2.4 GHz es -90 dBm, el jammer domina por **60 
 ---
 
 *B191 UTS · Electromagnetismo · 2026*
+

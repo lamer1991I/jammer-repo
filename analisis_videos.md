@@ -84,3 +84,4 @@
 ---
 
 *Análisis elaborado para B191 · UTS Bucaramanga · Abril 2026*
+

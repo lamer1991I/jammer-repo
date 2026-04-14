@@ -131,3 +131,4 @@ Ver [`/referencias/referencias_bibliograficas.md`](./referencias/referencias_bib
 ---
 
 *Electromagnetismo E111 · UTS Bucaramanga · 2026*
+

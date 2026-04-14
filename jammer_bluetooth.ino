@@ -143,3 +143,4 @@ void loop() {
   // Pequeña pausa entre saltos (ajustar para mayor/menor efectividad)
   delayMicroseconds(200);
 }
+
